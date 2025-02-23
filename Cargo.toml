@@ -1,0 +1,9 @@
+[package]
+name = "bevy_render_layer_bug"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.15"
+bevy-inspector-egui = "0.29.0"
+
